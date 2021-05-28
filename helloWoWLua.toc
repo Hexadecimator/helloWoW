@@ -1,0 +1,9 @@
+## Interface: 20501
+## Title: helloWoWLua
+## Version: .69
+## Notes: Learning Lua scripting in WoW
+## Author: MarxWasRight
+## SavedVariables: helloWoWLuaSave
+## DefaultState: enabled
+
+helloWoWLua.Lua
